@@ -1,0 +1,27 @@
+﻿  billboard.cpp
+  bullet.cpp
+  camera.cpp
+  debugproc.cpp
+  effect.cpp
+  enemy.cpp
+  explosion.cpp
+  input.cpp
+  light.cpp
+  main.cpp
+  meshcylinder.cpp
+  meshdome.cpp
+  meshfield.cpp
+  meshwall.cpp
+  model.cpp
+  particle.cpp
+  player.cpp
+  polygon.cpp
+  shadow.cpp
+  wall.cpp
+  コード生成しています。
+  227 of 231 functions (98.3%) were compiled, the rest were copied from previous compilation.
+    34 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  project_2022_1114_3D.vcxproj -> C:\Users\student\Documents\3D\2022_1128_001_3D_外積の当たり判定\project_2022_1114_3D.exe
+  project_2022_1114_3D.vcxproj -> C:\Users\student\Documents\3D\2022_1128_001_3D_外積の当たり判定\project_2022_1114_3D.pdb (Full PDB)
